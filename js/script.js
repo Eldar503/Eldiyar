@@ -35,7 +35,7 @@ let scene3 = new ScrollMagic.Scene({
 })
 .setTween(animation2)
 .addTo(controller)
-//vicdeo animation 
+
 let accelamount = 0.1;
 let scrollPos = 0;
 let delay = 0;
